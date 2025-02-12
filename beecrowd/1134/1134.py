@@ -8,7 +8,7 @@ while True:
         qtd_alcool += 1
     elif opcao == 2:
         qtd_gasolina += 1
-    elif opcao == 4:
+    elif opcao == 3:
         qtd_diesel += 1
     elif opcao == 4:
         break
